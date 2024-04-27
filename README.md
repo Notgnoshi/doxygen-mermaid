@@ -52,7 +52,7 @@ in Git forges like GitHub and GitLab.
 Add the following to your `docs/Doxyfile`
 ```
 ALIASES     += mermaid="<pre class=\"mermaid\">"
-ALIASES     += endmermaid="<\pre>"
+ALIASES     += endmermaid="</pre>"
 ```
 
 Then, add
